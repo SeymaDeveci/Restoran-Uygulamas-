@@ -1,0 +1,16 @@
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\bin\Debug\netcoreapp3.1\RestaurantAppData.deps.json
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\bin\Debug\netcoreapp3.1\RestaurantAppData.runtimeconfig.json
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\bin\Debug\netcoreapp3.1\RestaurantAppData.runtimeconfig.dev.json
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\bin\Debug\netcoreapp3.1\RestaurantAppData.dll
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\bin\Debug\netcoreapp3.1\RestaurantAppData.pdb
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\bin\Debug\netcoreapp3.1\RestaurantAppCommon.dll
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\bin\Debug\netcoreapp3.1\RestaurantAppCommon.pdb
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\obj\Debug\netcoreapp3.1\RestaurantAppData.csproj.AssemblyReference.cache
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\obj\Debug\netcoreapp3.1\RestaurantAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\obj\Debug\netcoreapp3.1\RestaurantAppData.AssemblyInfoInputs.cache
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\obj\Debug\netcoreapp3.1\RestaurantAppData.AssemblyInfo.cs
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\obj\Debug\netcoreapp3.1\RestaurantAppData.csproj.CoreCompileInputs.cache
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\obj\Debug\netcoreapp3.1\RestaurantAppData.csproj.CopyComplete
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\obj\Debug\netcoreapp3.1\RestaurantAppData.dll
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\obj\Debug\netcoreapp3.1\RestaurantAppData.pdb
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppData\obj\Debug\netcoreapp3.1\RestaurantAppData.genruntimeconfig.cache

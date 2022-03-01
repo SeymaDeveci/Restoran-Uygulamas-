@@ -1,0 +1,13 @@
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\bin\Debug\netcoreapp3.1\RestaurantAppCommon.deps.json
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\bin\Debug\netcoreapp3.1\RestaurantAppCommon.dll
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\bin\Debug\netcoreapp3.1\RestaurantAppCommon.pdb
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\obj\Debug\netcoreapp3.1\RestaurantAppCommon.csproj.AssemblyReference.cache
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\obj\Debug\netcoreapp3.1\RestaurantAppCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\obj\Debug\netcoreapp3.1\RestaurantAppCommon.AssemblyInfoInputs.cache
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\obj\Debug\netcoreapp3.1\RestaurantAppCommon.AssemblyInfo.cs
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\obj\Debug\netcoreapp3.1\RestaurantAppCommon.csproj.CoreCompileInputs.cache
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\obj\Debug\netcoreapp3.1\RestaurantAppCommon.dll
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\obj\Debug\netcoreapp3.1\RestaurantAppCommon.pdb
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\bin\Debug\netcoreapp3.1\RestaurantAppCommon.runtimeconfig.json
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\bin\Debug\netcoreapp3.1\RestaurantAppCommon.runtimeconfig.dev.json
+C:\Users\Seyma\source\repos\RestaurantApp\RestaurantAppCommon\obj\Debug\netcoreapp3.1\RestaurantAppCommon.genruntimeconfig.cache
