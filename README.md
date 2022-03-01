@@ -38,7 +38,3 @@ API Testlerinin Uygulanması
 ![API test 2](https://user-images.githubusercontent.com/42176018/156181516-35f6a4f6-a6b1-4666-b090-71802a5ce353.png)
 
 ![BreskPoint](https://user-images.githubusercontent.com/42176018/156181543-d1b0008e-ebc8-43dc-aaa6-16ed6104bd88.png)
-
-
-
-
